@@ -1,0 +1,11 @@
+# Rust
+/target
+
+# devenv / direnv
+.devenv/
+.direnv/
+
+# Editor/OS
+.DS_Store
+
+.pre-commit-config.yaml
